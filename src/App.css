@@ -1,0 +1,9 @@
+.App{
+ display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.innerDiv{
+    width: 20%;
+    border: 2px solid black;
+}
