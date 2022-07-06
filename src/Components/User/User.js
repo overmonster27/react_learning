@@ -1,8 +1,11 @@
-
-export default function User ({item})  {
+let User = ({item}) =>
+{
     return (
         <div>
             {item.name};
         </div>
     );
-};
+}
+
+
+export default User;
