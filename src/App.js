@@ -1,5 +1,6 @@
 import './App.css';
-import Carekter from "./Components/Component";
+import {Carekter} from "./components/Component";
+
 
 function App() {
     return (
